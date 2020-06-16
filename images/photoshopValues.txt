@@ -1,0 +1,5 @@
+Two entries:
+last tile: top 357 left 1732
+first up : top 137 left 0
+first down : top 560 left 0
+width height 182 118
